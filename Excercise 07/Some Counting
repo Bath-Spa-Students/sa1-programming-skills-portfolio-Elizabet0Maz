@@ -3,7 +3,7 @@
 
 
 # From 0 to 50 in increments of 1
-# for statement, and range functions are used to create a loop.
+# for loop
 for i in range(51):
 # Print Function.
     print(i)
@@ -16,7 +16,7 @@ print("\n")
 while i >= 0:
 # Print Function.
     print(i)
-# Assignment operator used for decrementing.
+#  decrement operator
     i = i-1
 
 # Print Function.
@@ -29,7 +29,7 @@ h = 30
 while h < 51:
 # Print Function.
     print(h)
-# Assignment operator used for incrementing.
+# Increment Operator
     h = h+1
 
 # Print Function.
@@ -42,7 +42,7 @@ k = 50
 while k >= 10:
 # Print Function.
     print(k)
-# Assignment operator used for decrementing
+# Decrement operator
     k = k-2
 
 
@@ -56,5 +56,5 @@ n = 100
 while n <= 200:
 # Print Function.
     print(n)
-# Assignment operator used for incrementing
+# increment operator 
     n = n+5

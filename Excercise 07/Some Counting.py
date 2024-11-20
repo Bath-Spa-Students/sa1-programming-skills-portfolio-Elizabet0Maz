@@ -7,7 +7,7 @@
 for i in range(51):
 # Print Function.
     print(i)
-
+ 
 # Print Function.
 print("\n")
 

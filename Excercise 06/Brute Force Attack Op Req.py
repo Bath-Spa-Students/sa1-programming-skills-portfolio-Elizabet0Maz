@@ -14,7 +14,7 @@ while ans != password:
 # Input for retrying
       ans = input("Wrong please try again! ")
 # If Keyword
-      if attempts == 5:
+      if attempts == limit:
 # Exit if limit reached.
         exit()
 # If keyword 

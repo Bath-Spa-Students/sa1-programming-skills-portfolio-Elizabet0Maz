@@ -27,4 +27,8 @@ if Answer in Months:
 # Else Function
 else: 
 # Print Function
+<<<<<<< Updated upstream
     print("Month is not found")
+=======
+    print("Month is not found")
+>>>>>>> Stashed changes

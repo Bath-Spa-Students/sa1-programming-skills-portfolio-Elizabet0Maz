@@ -14,5 +14,9 @@ else:
     topings.remove("quit")
 # Print Function
     print(topings)
+<<<<<<< Updated upstream
 # Exit
+=======
+# Exit 
+>>>>>>> Stashed changes
     exit()
